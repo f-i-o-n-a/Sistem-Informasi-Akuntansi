@@ -1,7 +1,9 @@
-
+<!DOCTYPE html>
+<html>
+  
 <h1 align="center">Sistem-Informasi-Akuntansi</h1>
 <p align="center">
-<img src="https://media.giphy.com/media/nDSlfqf0gn5g4/giphy.gif" width="100px">
+  <img src="https://media.giphy.com/media/nDSlfqf0gn5g4/giphy.gif" width="100px">
 </p>
 
 
@@ -26,6 +28,7 @@
 
 <br>
 <h1>Simple Budgets</h1>
+<p><a href="https://github.com/sheenazien8/simpel-budgets.git">Inspired by sheenazien8</a></p>
 <p align="justify">Simpel Budget adalah aplikasi web yang dirancang untuk membantu Anda mengelola anggaran bulanan dengan mudah dan tanpa perlu banyak tutorial atau proses yang rumit. Aplikasi ini menyediakan antarmuka yang sederhana dan intuitif, sehingga memudahkan Anda untuk melacak pemasukan, pengeluaran, dan transfer uang Anda.</p>
 
 <br>
@@ -135,3 +138,5 @@
 <h2>Flowchart</h2>
 
 <img src="pic/flowchart.png">
+
+</html>
