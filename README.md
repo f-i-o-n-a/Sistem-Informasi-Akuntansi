@@ -22,6 +22,7 @@
 <h1>Simple Budgets</h1>
 <p align="justify">Simpel Budget adalah aplikasi web yang dirancang untuk membantu Anda mengelola anggaran bulanan dengan mudah dan tanpa perlu banyak tutorial atau proses yang rumit. Aplikasi ini menyediakan antarmuka yang sederhana dan intuitif, sehingga memudahkan Anda untuk melacak pemasukan, pengeluaran, dan transfer uang Anda.</p>
 
+<br>
 <h2>Websiste</h2>
 
 <h6 align="center">Tampilan Awal</h6>
@@ -67,7 +68,7 @@
 <img src="pic/user 1.png">
 <img src="pic/user 2.png">
 
-
+<br>
 <h2>phpMyAdmin</h2>
 
 <h6 align="center">Structure</h6>
@@ -124,6 +125,7 @@
 <h6 align="center">Structure (Users)</h6>
 <img src="pic/users.jpg">
 
+<br>
 <h2>Flowchart</h2>
 
 <img src="pic/flowchart.png">
