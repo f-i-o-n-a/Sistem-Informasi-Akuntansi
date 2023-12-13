@@ -13,6 +13,10 @@
     <td>Mata Kuliah</td>
     <td>Sistem Informasi Akuntansi</td>
   </tr>
+   <tr>
+    <td>Dosen</td>
+    <td>Dr. Totok Dewayanto, SE., Msi., Akt.</td>
+  </tr>
 </table>
 
 <h1>Simple Budgets</h1>
