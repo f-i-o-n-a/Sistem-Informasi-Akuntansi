@@ -20,6 +20,23 @@
 
 <h2>Websiste</h2>
 
+<img src="pic/simple budgets.png">
+<img src="pic/fitur.png">
+<img src="pic/sign up.png">
+<img src="pic/sign in.png">
+<img src="pic/admin.png">
+<img src="pic/home.png">
+<img src="pic/input.png">
+<img src="pic/anggaran.png">
+<img src="pic/profil.png">
+<img src="pic/akun.png">
+<img src="pic/bahasa.png">
+<img src="pic/tujuan.png">
+<img src="pic/debt.png">
+<img src="pic/user 1.png">
+<img src="pic/user 2.png">
+
+
 <h2>phpMyAdmin</h2>
 
 <img src="pic/structure.jpg">
