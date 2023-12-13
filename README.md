@@ -3,7 +3,7 @@
   
 <h1 align="center">Sistem-Informasi-Akuntansi</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/nDSlfqf0gn5g4/giphy.gif" width="100px">
+  <img src="https://media.giphy.com/media/nDSlfqf0gn5g4/giphy.gif" width="200px">
 </p>
 
 
