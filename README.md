@@ -24,6 +24,7 @@
   </tr>
 </table>
 
+<br>
 <h1>Simple Budgets</h1>
 <p align="justify">Simpel Budget adalah aplikasi web yang dirancang untuk membantu Anda mengelola anggaran bulanan dengan mudah dan tanpa perlu banyak tutorial atau proses yang rumit. Aplikasi ini menyediakan antarmuka yang sederhana dan intuitif, sehingga memudahkan Anda untuk melacak pemasukan, pengeluaran, dan transfer uang Anda.</p>
 
