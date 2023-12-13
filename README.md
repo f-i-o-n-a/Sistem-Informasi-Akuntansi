@@ -58,6 +58,6 @@
 <img src="pic/transactions.jpg">
 <img src="pic/users.jpg">
 
-  
-  
 <h2>Flowchart</h2>
+
+<img src="pic/flowchart.png">
