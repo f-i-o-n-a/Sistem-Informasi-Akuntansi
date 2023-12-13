@@ -27,7 +27,7 @@
 </table>
 
 <br>
-<h1>Simple Budgets</h1>
+<h1>💸 Simple Budgets 💸</h1>
 <p><a href="https://github.com/sheenazien8/simpel-budgets.git">Inspired by sheenazien8</a></p>
 <p align="justify">Simpel Budget adalah aplikasi web yang dirancang untuk membantu Anda mengelola anggaran bulanan dengan mudah dan tanpa perlu banyak tutorial atau proses yang rumit. Aplikasi ini menyediakan antarmuka yang sederhana dan intuitif, sehingga memudahkan Anda untuk melacak pemasukan, pengeluaran, dan transfer uang Anda.</p>
 
