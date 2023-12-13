@@ -22,4 +22,25 @@
 
 <h2>phpMyAdmin</h2>
 
+<img src="pic/structure.jpg">
+<img src="pic/designer.jpg">
+<img src="pic/accounts.jpg">
+<img src="pic/budgets.jpg">
+<img src="pic/debts.jpg">
+<img src="pic/debt payments.jpg">
+<img src="pic/failed jobs.jpg">
+<img src="pic/filters.jpg">
+<img src="pic/goals.jpg">
+<img src="pic/goal details.jpg">
+<img src="pic/migrations.jpg">
+<img src="pic/months.jpg">
+<img src="pic/password resets.jpg">
+<img src="pic/personal access tokens.jpg">
+<img src="pic/profiles.jpg">
+<img src="pic/shortcuts.jpg">
+<img src="pic/transactions.jpg">
+<img src="pic/users.jpg">
+
+  
+  
 <h2>Flowchart</h2>
